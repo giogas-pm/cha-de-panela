@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giogas-pm.github.io/cha-de-panela/sitemap.xml
